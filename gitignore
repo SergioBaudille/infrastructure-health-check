@@ -1,0 +1,8 @@
+# Generated reports (keep sanitized samples in examples/)
+reports/
+*.log
+
+# Windows / editors
+Thumbs.db
+Desktop.ini
+.vscode/
